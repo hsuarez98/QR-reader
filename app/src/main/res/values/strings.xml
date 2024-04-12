@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaQR</string>
+    <string name="qrscanner">QrScanner</string>
+    <string name="boton_ordenar">Boton ordenar</string>
+    <string name="buscar">Buscar...</string>
+    <string name="boton_buscar">Boton buscar</string>
+    <string name="boton_qr">Boton qr</string>
+</resources>
